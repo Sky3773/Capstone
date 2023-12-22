@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<html xmlns:th="http://www.thymeleaf.org">
+	
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+	<form action="#" th.action="@{/books}" method="post" th:object="${books}" >
+		ISBN: <input type="number" th:field="*{isbn}" required><br>
+		Title: <input type="text" th:field="*{title}" required><br>
+		Author: <input type="text" th:field="*{authorName}" required><br>
+		Category: <input type="text" th:field="*{category}" required><br>
+		Availabilty: <input type="text" th:field="*{availability}" required><br>
+		Price: <input type="number" th:field="*{price}" required><br>
+		Copies: <input type="number" th:field="*{copies}" required><br>
+		
+		<button type="submit">Submit</button>
+	</form>
+</body>

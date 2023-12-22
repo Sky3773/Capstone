@@ -1,0 +1,41 @@
+@startuml
+
+title Library Management System Use Case Diagram
+
+left to right direction
+
+actor Librarian as L
+actor Member as M
+
+package libraryManagementSystem{
+    package Book_management{
+        usecase "Add Book" as aa1
+        usecase "Delete Book" as aa2
+}
+    package User_Management{
+        usecase "Add Member" as bb1
+        usecase "Delete Member" as bb2
+}
+    package Transactions{
+        usecase "Borrowing" as cc1
+        usecase "Returning" as cc2
+}
+    package Generate_Report{
+        usecase "Book Usage" as dd1
+        usecase "Borrowing Trends" as dd2
+        usecase "Overdue Books" as dd3
+}
+}
+
+L ---> aa1
+L ---> aa2
+L ---> bb1
+L ---> bb2
+L ---> dd1
+L ---> dd2
+L ---> dd3
+M ---> cc1
+M ---> cc2
+
+
+@enduml

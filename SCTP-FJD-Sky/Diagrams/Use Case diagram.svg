@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="868px" preserveAspectRatio="none" style="width:388px;height:868px;background:#FFFFFF;" version="1.1" viewBox="0 0 388 868" width="388px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="328" x="23" y="24.5332">Library Management System Use Case Diagram</text>
+        <!--cluster libraryManagementSystem-->
+        <g id="cluster_libraryManagementSystem">
+            <path d="M145.5,44.6094 L331.5,44.6094 A3.75,3.75 0 0 1 334,47.1094 L341,68.2188 L378.5,68.2188 A2.5,2.5 0 0 1 381,70.7188 L381,859.1094 A2.5,2.5 0 0 1 378.5,861.6094 L145.5,861.6094 A2.5,2.5 0 0 1 143,859.1094 L143,47.1094 A2.5,2.5 0 0 1 145.5,44.6094 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="143" x2="341" y1="68.2188" y2="68.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="147" y="61.1426">libraryManagementSystem</text>
+        </g>
+        <!--cluster Book_management-->
+        <g id="cluster_Book_management">
+            <path d="M182,88.6094 L317,88.6094 A3.75,3.75 0 0 1 319.5,91.1094 L326.5,112.2188 L342,112.2188 A2.5,2.5 0 0 1 344.5,114.7188 L344.5,236.1094 A2.5,2.5 0 0 1 342,238.6094 L182,238.6094 A2.5,2.5 0 0 1 179.5,236.1094 L179.5,91.1094 A2.5,2.5 0 0 1 182,88.6094 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="179.5" x2="326.5" y1="112.2188" y2="112.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="134" x="183.5" y="105.1426">Book_management</text>
+        </g>
+        <!--cluster User_Management-->
+        <g id="cluster_User_Management">
+            <path d="M175.5,262.6094 L308.5,262.6094 A3.75,3.75 0 0 1 311,265.1094 L318,286.2188 L348.5,286.2188 A2.5,2.5 0 0 1 351,288.7188 L351,413.1094 A2.5,2.5 0 0 1 348.5,415.6094 L175.5,415.6094 A2.5,2.5 0 0 1 173,413.1094 L173,265.1094 A2.5,2.5 0 0 1 175.5,262.6094 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="173" x2="318" y1="286.2188" y2="286.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="132" x="177" y="279.1426">User_Management</text>
+        </g>
+        <!--cluster Transactions-->
+        <g id="cluster_Transactions">
+            <path d="M192,687.6094 L283,687.6094 A3.75,3.75 0 0 1 285.5,690.1094 L292.5,711.2188 L332,711.2188 A2.5,2.5 0 0 1 334.5,713.7188 L334.5,835.1094 A2.5,2.5 0 0 1 332,837.6094 L192,837.6094 A2.5,2.5 0 0 1 189.5,835.1094 L189.5,690.1094 A2.5,2.5 0 0 1 192,687.6094 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="189.5" x2="292.5" y1="711.2188" y2="711.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="90" x="193.5" y="704.1426">Transactions</text>
+        </g>
+        <!--cluster Generate_Report-->
+        <g id="cluster_Generate_Report">
+            <path d="M169.5,439.6094 L292.5,439.6094 A3.75,3.75 0 0 1 295,442.1094 L302,463.2188 L354.5,463.2188 A2.5,2.5 0 0 1 357,465.7188 L357,661.1094 A2.5,2.5 0 0 1 354.5,663.6094 L169.5,663.6094 A2.5,2.5 0 0 1 167,661.1094 L167,442.1094 A2.5,2.5 0 0 1 169.5,439.6094 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="167" x2="302" y1="463.2188" y2="463.2188"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="122" x="171" y="456.1426">Generate_Report</text>
+        </g>
+        <g id="elem_aa1">
+            <ellipse cx="261.9968" cy="140.6523" fill="#F1F1F1" rx="54.9968" ry="15.5429" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="228.4968" y="145.1689">Add Book</text>
+        </g>
+        <g id="elem_aa2">
+            <ellipse cx="261.9254" cy="206.7945" fill="#F1F1F1" rx="66.4254" ry="15.6851" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="220.4254" y="211.3111">Delete Book</text>
+        </g>
+        <g id="elem_bb1">
+            <ellipse cx="261.9169" cy="314.4927" fill="#F1F1F1" rx="67.4169" ry="15.8834" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="218.9169" y="319.0093">Add Member</text>
+        </g>
+        <g id="elem_bb2">
+            <ellipse cx="262.0109" cy="382.6116" fill="#F1F1F1" rx="73.0109" ry="17.0022" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="211.0109" y="387.1282">Delete Member</text>
+        </g>
+        <g id="elem_cc1">
+            <ellipse cx="261.9744" cy="739.6647" fill="#F1F1F1" rx="56.4744" ry="15.5553" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="227.4744" y="744.1813">Borrowing</text>
+        </g>
+        <g id="elem_cc2">
+            <ellipse cx="262.2356" cy="805.6586" fill="#F1F1F1" rx="55.7356" ry="15.5492" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="228.2356" y="810.1752">Returning</text>
+        </g>
+        <g id="elem_dd1">
+            <ellipse cx="262.08" cy="491.7321" fill="#F1F1F1" rx="66.08" ry="15.6227" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="221.08" y="496.2487">Book Usage</text>
+        </g>
+        <g id="elem_dd2">
+            <ellipse cx="262.0785" cy="560.8251" fill="#F1F1F1" rx="79.0785" ry="18.2157" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="204.6751" y="564.9489">Borrowing Trends</text>
+        </g>
+        <g id="elem_dd3">
+            <ellipse cx="262.2427" cy="630.7579" fill="#F1F1F1" rx="73.7427" ry="17.1485" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="210.2427" y="635.2745">Overdue Books</text>
+        </g>
+        <!--entity L-->
+        <g id="elem_L">
+            <ellipse cx="34" cy="355.1094" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M34,363.1094 L34,390.1094 M21,371.1094 L47,371.1094 M34,390.1094 L21,405.1094 M34,390.1094 L47,405.1094 " fill="none" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="6" y="421.1426">Librarian</text>
+        </g>
+        <!--entity M-->
+        <g id="elem_M">
+            <ellipse cx="34" cy="742.1094" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/>
+            <path d="M34,750.1094 L34,777.1094 M21,758.1094 L47,758.1094 M34,777.1094 L21,792.1094 M34,777.1094 L47,792.1094 " fill="none" style="stroke:#181818;stroke-width:0.5;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="8.5" y="808.1426">Member</text>
+        </g>
+        <!--link L to aa1-->
+        <g id="link_L_aa1">
+            <path d="M42.84,346.5594 C54.52,298.6594 81.16,218.3294 135,173.6094 C154.08,157.7594 179.95,149.4394 203.28,145.0994 " fill="none" id="L-to-aa1" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="208.21,144.2294,198.6577,141.8306,203.2839,145.0861,200.0285,149.7123,208.21,144.2294" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to aa2-->
+        <g id="link_L_aa2">
+            <path d="M62.41,353.2994 C81.51,331.8594 108.27,303.8494 135,282.6094 C164.68,259.0194 202.3,237.2394 228.67,223.0994 " fill="none" id="L-to-aa2" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="233.13,220.7194,223.3051,221.4054,228.7135,223.0634,227.0555,228.4718,233.13,220.7194" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to bb1-->
+        <g id="link_L_bb1">
+            <path d="M62.31,374.3294 C82.26,366.3094 110.06,355.5894 135,347.6094 C158.83,339.9894 185.59,332.7894 208.31,327.0694 " fill="none" id="L-to-bb1" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="213.39,325.7994,203.6874,324.1084,208.5401,327.0154,205.6331,331.8682,213.39,325.7994" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to bb2-->
+        <g id="link_L_bb2">
+            <path d="M62.26,385.2494 C92.27,384.8494 141.85,384.1894 183.98,383.6294 " fill="none" id="L-to-bb2" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="189.08,383.5594,180.0238,379.6883,184.0805,383.6308,180.1381,387.6875,189.08,383.5594" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to dd1-->
+        <g id="link_L_dd1">
+            <path d="M62.26,398.3994 C103.49,417.7294 181.67,454.3994 226.71,475.5294 " fill="none" id="L-to-dd1" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="231.49,477.7694,225.0464,470.3209,226.9649,475.6425,221.6433,477.561,231.49,477.7694" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to dd2-->
+        <g id="link_L_dd2">
+            <path d="M53.81,424.8094 C70.83,456.2294 98.76,499.1394 135,524.6094 C151.47,536.1894 171.61,544.0594 190.92,549.4094 " fill="none" id="L-to-dd2" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="195.81,550.7194,188.1594,544.5172,190.9819,549.4195,186.0796,552.2421,195.81,550.7194" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link L to dd3-->
+        <g id="link_L_dd3">
+            <path d="M43.27,424.9994 C55.27,472.4194 82.13,551.1994 135,595.6094 C150.63,608.7394 170.81,616.9594 190.43,622.0994 " fill="none" id="L-to-dd3" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="195.4,623.3494,187.6262,617.3022,190.5468,622.1468,185.7021,625.0673,195.4,623.3494" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link M to cc1-->
+        <g id="link_M_cc1">
+            <path d="M59.62,769.0194 C94.72,763.8894 160.07,754.3494 206.81,747.5194 " fill="none" id="M-to-cc1" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="211.84,746.7894,202.3529,744.1445,206.8934,747.5185,203.5195,752.059,211.84,746.7894" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link M to cc2-->
+        <g id="link_M_cc2">
+            <path d="M59.62,776.1994 C94.83,781.3494 160.48,790.9294 207.25,797.7594 " fill="none" id="M-to-cc2" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="212.28,798.4994,203.9573,793.2332,207.3331,797.7723,202.794,801.1482,212.28,798.4994" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[XP5DRy8m38Rl_XKMznuezqbZIBjG8R7jZDp6woBQ13bc4vhuxqjQA9_RSgXUkK_zEAvQRHZdjXII7HRagEQMdUBBBYYt-1OOdoW-PfPgeHQWuNT5zIYs_b0qLhXIwnq0LUhbqCgIGmeuFnGBRakML2a0DbIjemMRNdfoziflm7YEqDJxzQeTaFvbEjl0LPfhz6XCHurIUwBnBJ7ZXfNFeHps5vPuIraL_rdwMtGjol9tpmLsRNeLSe6wZOKxcgaNyL_MrTtdLNN7icJTYZiXruPdTYoal5honelUbVXrl7A4knR6ZFyO94xCpeG3cT-IYqyMi-tNUyGcSQOzm1opB7leVieGysDCAnpYK4t33F6iEe6YZsadGym1VW00]-->
+    </g>
+</svg>
